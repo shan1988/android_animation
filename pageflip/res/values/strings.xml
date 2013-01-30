@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">Hello World, AndroidPageCurlActivity!</string>
+    <string name="app_name">Android Page Curl</string>
+    <string name="list_example">List Example</string>
+    <string name="standalone_example">Standalone Example</string>
+    <string name="description">고등어가 짱이긔~! 고등어가 짱~~~ \n\n
+    	Choose an example and try.</string>
+</resources>
